@@ -1,0 +1,4 @@
+# paste these three lines
+fastapi
+uvicorn[standard]
+python-dotenv
