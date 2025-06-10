@@ -28,3 +28,16 @@ n8n/.n8n/
 
 # Logs
 *.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+backend/venv/
+
+# Mac system files
+.DS_Store
